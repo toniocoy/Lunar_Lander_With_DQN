@@ -1,2 +1,3 @@
-# Lunar_Lander_With_DQN
-Lunar Lander solved with DQN [SPANISH]
+# Lunar Lander With DQN
+Typical Reinforcement Learning Problem solved with DQN. Epsilon-greedy strategy was used.
+All Notebook comments are written in Spanish.
